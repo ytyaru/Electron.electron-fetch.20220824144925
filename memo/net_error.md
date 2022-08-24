@@ -440,6 +440,13 @@ const res = await window.myApi.fetch(
 console.log(res)
 ```
 
+# fetch
+
+　あれ、Node.js v18以降はfetchが使えたの？
+
+* https://news.mynavi.jp/techplus/article/20220421-2326768/
+* https://qiita.com/youtoy/items/cce17c02085f7d42dc34
+
 ```javascript
 ```
 
